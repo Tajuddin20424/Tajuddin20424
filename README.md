@@ -80,7 +80,5 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/tajuddin20424">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=0E75B6&center=true&vCenter=true&width=600&height=100&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Developed+with+❤️+by+Md.+Tajuddin" alt="Animated Footer" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Developed+with+❤️+by+Md.+Tajuddin" alt="Animated Footer" />
 </p>
