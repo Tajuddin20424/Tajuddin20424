@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Md.%20Tajuddin&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Hi%20👋%20Md.%20Tajuddin&fontSize=60&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
@@ -80,5 +80,5 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=100&section=footer&text=%C2%A9%202026%20Md.%20Tajuddin%20%7C%20Developed%20with%20%E2%9D%A4%EF%B8%8F&fontSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=100&section=footer&text=%C2%A9%202026%20Md.%20Tajuddin%20%7C%20Developed%20with%20❤️%20by%20Md.%20Tajuddin&fontSize=20&animation=fadeIn" />
 </p>
