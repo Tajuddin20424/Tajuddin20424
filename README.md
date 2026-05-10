@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md. Tajuddin</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Problem+Solver;Python+%26+Django+Enthusiast;Building+Dynamic+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Problem+Solver;Python+%26+Django+Enthusiast;Building+Dynamic+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tajuddin20424&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=tajuddin20424&label=Profile%20Views&color=36BCF7&style=flat-square" alt="views" />
 </p>
 
 ---
@@ -19,44 +19,31 @@
 
 ### 🛠️ Professional Tech Stack
 
-**Languages:**
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-**Frameworks & Libraries:**
-<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Databases & Tools:**
-<p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tajuddin20424&show_icons=true&theme=vision-friendly-dark" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tajuddin20424&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tajuddin20424&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tajuddin20424&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajuddin20424&theme=vision-friendly-dark" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajuddin20424&theme=tokyonight" alt="Streak" />
 </p>
 
 ---
@@ -77,5 +64,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%C2%A9%202026-%20Md.%20Tajuddin%20-0E75B6?style=for-the-badge&logoColor=white" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Developed+with+❤️+by+Md.+Tajuddin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Developed+with+❤️+by+Md.+Tajuddin" alt="Typing SVG" />
 </p>
