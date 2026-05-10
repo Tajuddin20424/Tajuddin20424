@@ -72,6 +72,10 @@
 
 <br />
 
+---
+
 <p align="center">
-  <b>© 2026 Md. Tajuddin | Developed with ❤️</b>
+  <img src="https://img.shields.io/badge/%C2%A9%202026-%20Md.%20Tajuddin%20-0E75B6?style=for-the-badge&logoColor=white" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Developed+with+❤️+by+Md.+Tajuddin" alt="Typing SVG" />
 </p>
