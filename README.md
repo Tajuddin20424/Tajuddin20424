@@ -12,9 +12,7 @@
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajuddin20424&label=Profile%20views&color=0e75b6&style=flat" alt="tajuddin20424" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajuddin20424" alt="tajuddin20424" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mt tajuddin" target="blank"><img src="https://img.shields.io/twitter/follow/mt tajuddin?logo=twitter&style=for-the-badge" alt="mt tajuddin" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3> 
