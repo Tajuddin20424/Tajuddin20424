@@ -80,5 +80,7 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=100&section=footer&text=©%202026%20Md.%20Tajuddin%20|%20Developed%20with%20❤️%20by%20Md.%20Tajuddin&fontSize=20&animation=type" />
+  <a href="https://github.com/tajuddin20424">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=0E75B6&center=true&vCenter=true&width=600&height=100&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Developed+with+❤️+by+Md.+Tajuddin" alt="Animated Footer" />
+  </a>
 </p>
