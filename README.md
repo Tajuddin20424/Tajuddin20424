@@ -80,5 +80,8 @@
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Developed+with+❤️+by+Md.+Tajuddin" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=100&section=footer&descSize=20&text=%20&animation=fadeIn" />
+  <div style="margin-top: -75px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Developed+with+❤️+by+Md.+Tajuddin" alt="Footer Animation" />
+  </div>
 </p>
