@@ -70,6 +70,8 @@
   <a href="https://kaggle.com/mttajuddin07" target="blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" alt="Quote" />
+  <b>© 2026 Md. Tajuddin | Developed with ❤️</b>
 </p>
