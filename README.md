@@ -18,12 +18,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-* 🔭 **Currently focusing on:** Full Stack Software Development, Advanced Problem Solving & Data Structures.
-* 🌱 **Expanding Expertise:** Python, Django, ERP Application Development & React.js.
-* 💼 **Professional Focus:** Building scalable, secure and dynamic ERP & Web Applications.
-* 💬 **Ask me about:** Python, Django, PHP, MySQL, JavaScript, ERP Systems and Web Architecture.
-* 🧠 **Interests:** Software Engineering, Backend Development, ERP Systems & Problem Solving.
-* 📫 **How to reach me:** Drop a message on my socials below!
+- 🔭 **Currently focusing on:** Full Stack Software Development, Advanced Problem Solving & Data Structures.
+- 🌱 **Expanding Expertise:** Python, Django, ERP Application Development & React.js.
+- 💼 **Professional Focus:** Building scalable, secure and dynamic ERP & Web Applications.
+- 💬 **Ask me about:** Python, Django, PHP, MySQL, JavaScript, ERP Systems and Web Architecture.
+- 🧠 **Interests:** Software Engineering, Backend Development, ERP Systems & Problem Solving.
+- 📫 **How to reach me:** Drop a message on my socials below!
 
 ---
 
@@ -73,17 +73,21 @@
 
 ## 💼 Professional Expertise
 
-| Area                     | Expertise                       |
-| ------------------------ | ------------------------------- |
+<p align="center">
+
+| Area | Expertise |
+|------|-----------|
 | 🖥️ Software Development | Full Stack Software Development |
-| 🐍 Backend Development   | Python & Django                 |
-| 🌐 Web Development       | HTML, CSS, JavaScript, React    |
-| 🏢 ERP Development       | ERP Application Development     |
-| 🗄️ Database             | MySQL & SQL                     |
-| 🔌 API Development       | REST API & API Integration      |
-| 🎨 Frontend              | React, Tailwind CSS & Bootstrap |
-| 🔧 Version Control       | Git & GitHub                    |
-| 🧩 Problem Solving       | Data Structures & Algorithms    |
+| 🐍 Backend Development | Python & Django |
+| 🌐 Web Development | HTML, CSS, JavaScript, React |
+| 🏢 ERP Development | ERP Application Development |
+| 🗄️ Database | MySQL & SQL |
+| 🔌 API Development | REST API & API Integration |
+| 🎨 Frontend | React, Tailwind CSS & Bootstrap |
+| 🔧 Version Control | Git & GitHub |
+| 🧩 Problem Solving | Data Structures & Algorithms |
+
+</p>
 
 ---
 
@@ -105,14 +109,14 @@
 
 ## 🚀 What I Build
 
-* 🏢 **ERP Management Systems**
-* 🌐 **Full Stack Web Applications**
-* 🐍 **Python & Django Applications**
-* 🔌 **REST APIs & API Integrations**
-* 🛒 **E-Commerce Applications**
-* 👥 **Management & Business Applications**
-* 📊 **Database-Driven Applications**
-* 🤖 **Machine Learning & Data Science Projects**
+- 🏢 **ERP Management Systems**
+- 🌐 **Full Stack Web Applications**
+- 🐍 **Python & Django Applications**
+- 🔌 **REST APIs & API Integrations**
+- 🛒 **E-Commerce Applications**
+- 👥 **Management & Business Applications**
+- 📊 **Database-Driven Applications**
+- 🤖 **Machine Learning & Data Science Projects**
 
 ---
 
@@ -157,5 +161,5 @@ I enjoy transforming real-world business requirements into reliable, efficient, 
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Full+Stack+Software+Developer+%7C+Python+%26+Django+%7C+ERP+Developer+%7C+Developed+with+%E2%9D%A4%EF%B8%8F+by+Md.+Tajuddin" alt="Animated Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Full+Stack+Software+Developer+%7C+Python+%26+Django+%7C+ERP+Developer" alt="Animated Footer" />
 </p>
