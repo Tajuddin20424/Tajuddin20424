@@ -73,17 +73,56 @@
 
 ## 💼 Professional Expertise
 
-| Area | Expertise |
-|------|-----------|
-| 🖥️ Software Development | Full Stack Software Development |
-| 🐍 Backend Development | Python & Django |
-| 🌐 Web Development | HTML, CSS, JavaScript, React |
-| 🏢 ERP Development | ERP Application Development |
-| 🗄️ Database | MySQL & SQL |
-| 🔌 API Development | REST API & API Integration |
-| 🎨 Frontend | React, Tailwind CSS & Bootstrap |
-| 🔧 Version Control | Git & GitHub |
-| 🧩 Problem Solving | Data Structures & Algorithms |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Expertise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🖥️ Software Development</td>
+      <td>Full Stack Software Development</td>
+    </tr>
+    <tr>
+      <td>🐍 Backend Development</td>
+      <td>Python &amp; Django</td>
+    </tr>
+    <tr>
+      <td>🌐 Web Development</td>
+      <td>HTML, CSS, JavaScript, React</td>
+    </tr>
+    <tr>
+      <td>🏢 ERP Development</td>
+      <td>ERP Application Development</td>
+    </tr>
+    <tr>
+      <td>🗄️ Database</td>
+      <td>MySQL &amp; SQL</td>
+    </tr>
+    <tr>
+      <td>🔌 API Development</td>
+      <td>REST API &amp; API Integration</td>
+    </tr>
+    <tr>
+      <td>🎨 Frontend</td>
+      <td>React, Tailwind CSS &amp; Bootstrap</td>
+    </tr>
+    <tr>
+      <td>🔧 Version Control</td>
+      <td>Git &amp; GitHub</td>
+    </tr>
+    <tr>
+      <td>🧩 Problem Solving</td>
+      <td>Data Structures &amp; Algorithms</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
