@@ -73,8 +73,6 @@
 
 ## 💼 Professional Expertise
 
-<p align="center">
-
 | Area | Expertise |
 |------|-----------|
 | 🖥️ Software Development | Full Stack Software Development |
@@ -86,8 +84,6 @@
 | 🎨 Frontend | React, Tailwind CSS & Bootstrap |
 | 🔧 Version Control | Git & GitHub |
 | 🧩 Problem Solving | Data Structures & Algorithms |
-
-</p>
 
 ---
 
@@ -161,5 +157,5 @@ I enjoy transforming real-world business requirements into reliable, efficient, 
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Full+Stack+Software+Developer+%7C+Python+%26+Django+%7C+ERP+Developer" alt="Animated Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=1200&lines=%C2%A9+2026+Md.+Tajuddin+%7C+Full+Stack+Software+Developer+%7C+Python+%26+Django+%7C+ERP+Developer+%7C+Developed+with+%E2%9D%A4%EF%B8%8F+by+Md.+Tajuddin" alt="Animated Footer" />
 </p>
